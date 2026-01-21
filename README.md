@@ -10,7 +10,7 @@ This project focuses on layout design, Flexbox, positioning and modern UI stylin
 -Bottom music player UI
 -Fullly responsive layout
 
-###Tech Stack
+### Tech Stack
 -HTML
 -CSS
 -Font Awesome Icons
